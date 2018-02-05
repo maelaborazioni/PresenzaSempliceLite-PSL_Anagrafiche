@@ -1,0 +1,56 @@
+dataSource:"db:/ma_anagrafiche/ditte",
+encapsulation:60,
+items:[
+{
+anchors:15,
+items:[
+{
+containsFormID:"DFAD2913-F9E9-4D77-81D5-433E5AA1623E",
+location:"179,157",
+text:"Sedi di lavoro",
+typeid:15,
+uuid:"0296D5FE-C9E1-4AB5-A0CB-5A26E203A16D"
+},
+{
+containsFormID:"94250775-63ED-4B15-90CF-25268B433C9B",
+location:"62,81",
+text:"Sede legale",
+typeid:15,
+uuid:"09EEB3B2-FA8B-47AF-898A-E34B490A0471"
+},
+{
+containsFormID:"515ABC5C-F699-4653-90BE-C17CD04DC158",
+location:"13,42",
+text:"Dati giuridici",
+typeid:15,
+uuid:"E7D70E6C-37B4-4FB0-A848-DDE72673D84F"
+},
+{
+containsFormID:"463EA038-8BBB-4015-9CD4-7B4E0FEB49C3",
+location:"109,119",
+text:"Domicilio fiscale",
+typeid:15,
+uuid:"FF093F0F-464C-4BD9-B282-1A96F693FDB0"
+}
+],
+location:"0,0",
+name:"detail_tab",
+printable:false,
+size:"640,480",
+transparent:true,
+typeid:16,
+uuid:"82B7087A-A1B9-4169-B586-B6A7E13B9C48"
+},
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"A4CDFEAD-E311-4D47-BCDD-062C03FBD1B8"
+}
+],
+name:"psl_ag_ditta",
+navigatorID:"-1",
+showInMenu:true,
+styleName:"psl",
+typeid:3,
+uuid:"EC1CE06E-F060-4EA5-ABA1-4DACEB399A7C"
